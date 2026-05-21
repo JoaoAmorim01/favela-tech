@@ -1,0 +1,6 @@
+{
+  "name": "Favela Tech",
+  "description": "App para gestão de empréstimos, acompanhamento de parcelas, emissão e extratos com interface acessível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
